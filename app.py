@@ -11,8 +11,8 @@ app = Flask(__name__)
 
 
 base_url = 'https://sandboxapi.rapyd.net'
-access_key = 'CFA3A9AA8E5AF05EE873'
-secret_key = '71931ce95f7fb7828c8fd9ab92ee23c7d851ff223b333051afa94daffe00f06eb7b5620b95402544'
+access_key = 'YOUR ACCESS KEY'
+secret_key = 'YOUR SECRET KEY'
 
 def generate_salt(length=12):
     return ''.join(random.sample(string.ascii_letters + string.digits, length))
