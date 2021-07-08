@@ -1,6 +1,6 @@
 # Groceries Shopping App with depthai and RapydAPI
 ## An automated checkout using cheap AI depth camera and computer vision
-![alt text] (https://cdn.antratek.nl/media/product/5ec/luxonis-oak-d-depthai-stereo-camera-sen-17770-549.jpg) 
+![alt text](https://cdn.antratek.nl/media/product/5ec/luxonis-oak-d-depthai-stereo-camera-sen-17770-549.jpg) 
 ![alt text](https://www.rapyd.net/wp-content/uploads/2019/10/Screen-Shot-2020-05-27-at-9.23.21-AM.png)
 1. deploy the app.py using the given link : https://medium.com/techfront/step-by-step-visual-guide-on-deploying-a-flask-application-on-aws-ec2-8e3e8b82c4f7
 
